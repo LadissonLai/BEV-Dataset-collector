@@ -1,6 +1,6 @@
 # BEV Dataset collector
 This project will automatically collects the BEV image and save it into the folder called "co_images/bev".
-<video src="docs/BEV_collect.mp4"></video>
+<video src="https://github.com/LadissonLai/BEV-Dataset-collector/blob/main/docs/BEV_collect.mp4"></video>
 
 # Get Started
 1. Launch CARLA Server.
