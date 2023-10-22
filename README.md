@@ -3,7 +3,7 @@ This project will automatically collects the BEV image and save it into the fold
 <video src="https://github.com/LadissonLai/BEV-Dataset-collector/blob/main/docs/BEV_collect.mp4"></video>
 
 # Get Started
-1. Launch CARLA Server.
+1. Launch CARLA Server. ([BaiduCloud](https://pan.baidu.com/share/init?surl=iLcAsa1yJSYNcisP1ymfow&pwd=b5au) | [GoogleDrive](https://drive.google.com/file/d/1kHZM-gMMSq9b4UvzKXK5PkzfXLoXZmkx/view))
 ```shell
 cd /carla/root/folder
 ./CarlaUE4.sh
